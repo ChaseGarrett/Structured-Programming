@@ -1,8 +1,8 @@
 /*
-Author:			    Chase Cummins
-Date Created:	  2/20/17
-Date Due: 		  3/1/17
-Program Name:	  Lab 4.28 on p. 155
+Author:         Chase Cummins
+Date Created:   2/20/17
+Date Due:       3/1/17
+Program Name:   Lab 4.28 on p. 155
 */
 
 // Exercise 4.28 aims to calculate the weekly pay of a company's workers with a variety of pay grades.
