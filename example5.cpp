@@ -1,3 +1,7 @@
+/*
+Author:         Chase Cummins
+*/
+
 #include <stdio.h>
 #include <math.h>
 
