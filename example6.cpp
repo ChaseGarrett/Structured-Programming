@@ -1,3 +1,7 @@
+/*
+Author:         Chase Cummins
+*/
+
 #include <stdio.h>
 
 void add(double num1, double num2);
