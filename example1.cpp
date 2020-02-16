@@ -1,8 +1,8 @@
 
 /*
-Author:			Chase Cummins
+Author:		Chase Cummins
 Date Created:	1/13/17
-Date Due: 		1/20/17
+Date Due: 	1/20/17
 Program Name:	Lab 2.25 on p. 67
 */
 
