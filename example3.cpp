@@ -1,8 +1,8 @@
 /*
-Author:			    Chase Cummins
+Author:         Chase Cummins
 Date Created:	  2/15/17
 Date Due: 		  2/20/17
-Program Name:	  Lab 3.17 on p. 107
+Program Name:   Lab 3.17 on p. 107
 */
 
 // Exercise 3.17 asks the customer for account number, beginning balance, total of all charges, total of all credits, and allowed credit limit
