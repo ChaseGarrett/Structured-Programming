@@ -1,7 +1,7 @@
 /*
 Author:         Chase Cummins
-Date Created:	  2/15/17
-Date Due: 		  2/20/17
+Date Created:   2/15/17
+Date Due:       2/20/17
 Program Name:   Lab 3.17 on p. 107
 */
 
